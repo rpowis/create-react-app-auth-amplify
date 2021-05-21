@@ -12,6 +12,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>Clear Treasury Platform</p>
+          <p>Welcome!</p>
         </header>
       </div>
     );
